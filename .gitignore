@@ -17,3 +17,6 @@
 /yarn-error.log
 
 .byebug_history
+
+# Addional files to be ignored
+/config/secrets.yml
